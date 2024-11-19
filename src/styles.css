@@ -29,6 +29,7 @@ input {
 }
 .mostrar {
   display: flex;
+  flex-ditection: column;
 }
 .esconder {
   display: none;
